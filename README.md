@@ -120,4 +120,3 @@ The strength score ranges from `0` (weakest) to `4` (strongest). A breach count 
 - **Simplified entropy estimation:** The calculation assumes characters are selected randomly from the estimated character set. Human-created passwords often follow predictable patterns, so the estimate may overstate their actual strength.
 - **No dictionary or pattern analysis:** The current implementation does not detect common passwords, predictable sequences, or other patterns that can make passwords easier to guess.
 - **External API dependency:** Breach detection requires network access and availability of the Have I Been Pwned service.
-- **Incomplete
