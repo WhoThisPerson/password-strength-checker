@@ -87,7 +87,7 @@ If the API check fails, the application reports that the breach count is unavail
 1. Clone the repository:
 
    ```bash
-   git clone <git@github.com:[YOUR USERNAME]/password-strength-checker.git>
+   git clone git@github.com:[YOUR USERNAME]/password-strength-checker.git
    ```
 
 ### Running the Application
